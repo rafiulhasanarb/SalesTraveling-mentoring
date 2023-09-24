@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  SalesTraveling
+
+  Created by Ryan on 2017/11/23.
+  Copyright © 2017年 Hanyu. All rights reserved.
+*/
+
+"Search"="搜尋";
+"Time"="時間";
+"Distance"="距離";
+"min"="分鐘";
+"km"="公里";
+"Source"="出發點";
+"Prompt"="提示";
+"Current location"="目前位置";
+"There is no calculated tour can be saved."="目前尚無計算完成的旅途可儲存";

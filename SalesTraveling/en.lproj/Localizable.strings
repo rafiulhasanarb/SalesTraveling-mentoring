@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  SalesTraveling
+
+  Created by Ryan on 2017/11/23.
+  Copyright © 2017年 Hanyu. All rights reserved.
+*/
+
+"Search"="Search";
+"Time"="Time";
+"Distance"="Distance";
+"min"="min";
+"km"="km";
+"Source"="Source";
+"Prompt"="Prompt";
+"Current location"="Current location";
+"There is no calculated tour can be saved."="There is no calculated tour can be saved.";
